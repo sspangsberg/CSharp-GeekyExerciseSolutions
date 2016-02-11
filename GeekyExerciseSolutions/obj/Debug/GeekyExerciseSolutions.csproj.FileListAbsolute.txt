@@ -1,0 +1,11 @@
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.exe.config
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\obj\Debug\GeekyExerciseSolutions.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\obj\Debug\GeekyExerciseSolutions.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\obj\Debug\GeekyExerciseSolutions.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\bin\Debug\GeekyExerciseSolutions.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\obj\Debug\GeekyExerciseSolutions.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\GeekyExerciseSolutions\obj\Debug\GeekyExerciseSolutions.pdb

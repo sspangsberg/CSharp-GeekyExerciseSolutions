@@ -1,0 +1,6 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\bin\Debug\Opgaver 2r.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\bin\Debug\Opgaver 2r.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\bin\Debug\Opgaver 2r.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\obj\Debug\Opgaver 2r.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\obj\Debug\Opgaver 2r.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\Opgaver 2r\obj\Debug\Opgaver 2r.csprojResolveAssemblyReference.cache

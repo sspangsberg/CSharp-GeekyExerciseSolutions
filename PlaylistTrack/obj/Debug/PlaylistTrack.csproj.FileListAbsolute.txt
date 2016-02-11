@@ -1,0 +1,14 @@
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.exe.config
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\bin\Debug\PlaylistTrack.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.GUI.PlayListTrackGUI.resources
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\PlaylistTrack\obj\Debug\PlaylistTrack.csproj.GenerateResource.Cache

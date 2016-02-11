@@ -1,0 +1,12 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.exe.config
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\bin\Debug\FilesIntro.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\FilesIntro\obj\Debug\FilesIntro.csprojResolveAssemblyReference.cache

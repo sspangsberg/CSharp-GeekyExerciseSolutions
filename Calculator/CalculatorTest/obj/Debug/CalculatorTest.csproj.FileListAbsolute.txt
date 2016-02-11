@@ -1,0 +1,7 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\bin\Debug\Calculator.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb

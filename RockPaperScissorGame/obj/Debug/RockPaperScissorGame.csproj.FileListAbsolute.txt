@@ -1,0 +1,9 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.Properties.Resources.resources
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.csproj.GenerateResource.Cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\bin\Debug\RockPaperScissorGame.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\RockPaperScissorGame\obj\Debug\RockPaperScissorGame.RockPaperScissorGameForm.resources

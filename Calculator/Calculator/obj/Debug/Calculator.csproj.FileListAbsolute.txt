@@ -1,0 +1,9 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,12 @@
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.Properties.Resources.resources
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.csproj.GenerateResource.Cache
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\bin\Debug\DiceThrowGUI.exe.config
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\bin\Debug\DiceThrowGUI.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\bin\Debug\DiceThrowGUI.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.GUI.DiceThrowForm.resources
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\bin\Debug\DiceThrowGUI.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\GeekyExerciseSolutions\DiceThrowGUI\obj\Debug\DiceThrowGUI.pdb
